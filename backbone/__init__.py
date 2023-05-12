@@ -1,0 +1,1 @@
+from .rest_u_fpn import resnet50_fpn_u_backbone
